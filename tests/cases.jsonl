@@ -1,0 +1,5 @@
+{"input": "Acme Corp reported Q3 revenue of $4.2M, up 18% year over year, driven by enterprise contracts signed in July.", "expected": "Acme Corp Q3 revenue was $4.2M, up 18% YoY on July enterprise contracts."}
+{"input": "The board meeting on March 15th approved a $12M budget for the data platform migration, scheduled to complete by Q1 2027.", "expected": "On March 15th the board approved $12M for data platform migration by Q1 2027."}
+{"input": "Customer churn dropped from 8.1% to 5.4% after the onboarding redesign launched in January.", "expected": "Churn fell from 8.1% to 5.4% after January's onboarding redesign."}
+{"input": "The new API handles 10,000 requests per second with p99 latency under 50ms, a 3x improvement over v1.", "expected": "New API: 10k req/s, p99 <50ms, 3x faster than v1."}
+{"input": "Headcount grew to 450 employees across 6 offices after the Berlin expansion in September.", "expected": "Headcount reached 450 across 6 offices after September's Berlin expansion."}
