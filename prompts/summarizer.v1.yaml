@@ -1,0 +1,7 @@
+name: summarizer
+version: v1
+model: gpt-4o-mini
+temperature: 0
+system: |
+  Summarize the following text.
+changelog: "Initial version."

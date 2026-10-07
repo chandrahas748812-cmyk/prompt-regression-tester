@@ -1,0 +1,8 @@
+name: summarizer
+version: v2
+model: gpt-4o-mini
+temperature: 0
+system: |
+  Summarize the following text in 2 sentences or fewer.
+  Preserve all numbers and dates exactly.
+changelog: "Tightened length constraint; added number preservation rule."
